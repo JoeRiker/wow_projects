@@ -2,6 +2,8 @@
 
 ####################################
 # Get WoW Armory Data via JSON API #
+#----------------------------------#
+# Alexandro Ghettini          2018 #
 ####################################
 
 use LWP::Simple;                # From CPAN
