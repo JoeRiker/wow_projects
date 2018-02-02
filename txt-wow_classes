@@ -1,0 +1,14 @@
+my @WOW_CLASS;
+$WOW_CLASS[1]='Warrior';
+$WOW_CLASS[2]='Paladin';
+$WOW_CLASS[3]='Hunter';
+$WOW_CLASS[4]='Rogue';
+$WOW_CLASS[5]='Priest';
+$WOW_CLASS[6]='Death Knight';
+$WOW_CLASS[7]='Shaman';
+$WOW_CLASS[8]='Mage';
+$WOW_CLASS[9]='Warlock';
+$WOW_CLASS[10]='Monk';
+$WOW_CLASS[11]='Druid';
+$WOW_CLASS[12]='Demon Hunter';
+

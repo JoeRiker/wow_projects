@@ -1,0 +1,4 @@
+my @WOW_GENDER;
+$WOW_GENDER[0]='Male';
+$WOW_GENDER[1]='Female';
+

@@ -1,0 +1,4 @@
+my @WOW_FACTION;
+$WOW_FACTION[0]='Alliance';
+$WOW_FACTION[1]='Horde';
+

@@ -1,0 +1,27 @@
+my @WOW_RACE;
+$WOW_RACE[1]='Human';
+$WOW_RACE[2]='Orc';
+$WOW_RACE[3]='Dwarf';
+$WOW_RACE[4]='Night Elf';
+$WOW_RACE[5]='Undead';
+$WOW_RACE[6]='Tauren';
+$WOW_RACE[7]='Gnome';                # Killaaaa
+$WOW_RACE[8]='Troll';
+$WOW_RACE[9]='Goblin';               # Useless
+$WOW_RACE[10]='Blood Elf';
+$WOW_RACE[11]='Draenei';
+$WOW_RACE[12]='Fel Orc';             # Unused
+$WOW_RACE[13]='Naga';                # Unused
+$WOW_RACE[14]='Broken';              # Unused
+$WOW_RACE[15]='Skeleton';            # Unused
+$WOW_RACE[16]='Vrykul';              # Unused
+$WOW_RACE[17]='Tuskarr';             # Unused
+$WOW_RACE[18]='Forest Troll';        # Unused
+$WOW_RACE[19]='Taunka';              # Unused
+$WOW_RACE[20]='Northrend Skeleton';  # Unused
+$WOW_RACE[21]='Ice Troll';           # Unused
+$WOW_RACE[22]='Worgen';
+$WOW_RACE[24]='Pandaren';            # Neutral
+$WOW_RACE[25]='Pandaren';            # Alliance
+$WOW_RACE[26]='Pandaren';            # Horde
+
